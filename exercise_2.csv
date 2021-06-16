@@ -1,11 +1,11 @@
-pax
-88809.0
-70930.0
-70530.0
-69630.0
-66270.0
-64490.0
-59460.0
-58150.0
-58000.0
-55590.0
+arr_port,pax,arr_port_name,city,country,currency
+LHR,88809.0,London Heathrow Airport,London,United Kingdom,GBP
+MCO,70930.0,Orlando International Airport,Orlando,United States,USD
+LAX,70530.0,Los Angeles International Airport,Los Angeles,United States,USD
+LAS,69630.0,McCarran International Airport,Las Vegas,United States,USD
+JFK,66270.0,John F. Kennedy International Airport,New York City,United States,USD
+CDG,64490.0,Paris Charles de Gaulle Airport,Paris,France,EUR
+BKK,59460.0,Suvarnabhumi Airport,Bangkok,Thailand,THB
+MIA,58150.0,Miami International Airport,Miami,United States,USD
+SFO,58000.0,San Francisco International Airport,San Francisco,United States,USD
+DXB,55590.0,Dubai International Airport,Dubai,United Arab Emirates,AED
